@@ -1,4 +1,4 @@
-# Hack-City-Hall
+# Scrape-City-Hall
 Web Scraping to Suggest Key Issues in NYC
 
-The request-handling script is based on coursework for one of my University of Chicago computer science classes. One-twenties all the way!
+A script to collect legislation from New York City Hall's website that updates itself daily.
