@@ -9,7 +9,7 @@ limiting_domain = 'council.nyc.gov/Legislation'
 starting_domain = 'http://legistar.council.nyc.gov/Legislation.aspx'
 
 def go():
-	return
+	return "Just the highlights at this point"
 
 # follow the hrefs that link to bills and *not* pdfs
 
